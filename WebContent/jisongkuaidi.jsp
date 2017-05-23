@@ -5,7 +5,7 @@
 
 
    <div class="ui link list tab segment active" data-tab="sm3" >
-        <a class="active item" href="寄送快递.jsp">寄送快递</a>
+        <a class="active item" href="jisongkuaidi.jsp">寄送快递</a>
       
    </div>
    </div>
