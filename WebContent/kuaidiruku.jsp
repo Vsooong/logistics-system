@@ -4,7 +4,7 @@
 
 	   <div class="ui link list tab segment active" data-tab="sm1" >
         <a class="active item" href="#" >快递入库</a>
-        <a class="item" href="智能柜货架互转.jsp" >智能柜货架互转</a>
+        <a class="item" href="huojiahuzhuan.jsp" >智能柜货架互转</a>
       </div>
 		</div>
 	</div>
