@@ -3,7 +3,7 @@
 <%@include file="base.jsp" %>
 
   <div class="ui link list tab segment active" data-tab="sm1" >
-        <a class="item" href="快递入库.jsp" >快递入库</a>
+        <a class="item" href="kuaidiruku.jsp" >快递入库</a>
         <a class="active item" href="#  " >智能柜货架互转</a>
       </div>
 		</div>
