@@ -2,9 +2,9 @@
     pageEncoding="utf-8"%>
 <%@include file="base.jsp" %>
       	<div class="ui link list tab segment active" data-tab="sm2">
-	        <a class="item" href="生成报表.jsp">生成报表</a>
-	        <a class="item" href="账号管理.jsp">账号管理</a>
-	        <a class="active item" href="智能柜管理.jsp">智能柜管理</a>
+	        <a class="item" href="shengchengbaobiao.jsp">生成报表</a>
+	        <a class="item" href="zhanghaoguanli.jsp">账号管理</a>
+	        <a class="active item" href="zhinengguiguanli.jsp">智能柜管理</a>
       	</div>
 	 </div>
 	</div>
